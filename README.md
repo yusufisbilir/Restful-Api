@@ -1,3 +1,3 @@
-# Restful-Api
-- RESTFUL api with Nodejs.
+# RESTful-Api
+- RESTful api with Nodejs.
 - MVC pattern
